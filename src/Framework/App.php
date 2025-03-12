@@ -7,6 +7,6 @@ class App
 {
     public function run()
     {
-        echo "app running first time";
+        echo "testing";
     }
 }
